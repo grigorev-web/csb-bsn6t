@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://grigorev-web.github.io/csb-bsn6t/static/css/main.b769585c.chunk.css",
+    "main.js": "https://grigorev-web.github.io/csb-bsn6t/static/js/main.23072f1a.chunk.js",
+    "main.js.map": "https://grigorev-web.github.io/csb-bsn6t/static/js/main.23072f1a.chunk.js.map",
+    "runtime-main.js": "https://grigorev-web.github.io/csb-bsn6t/static/js/runtime-main.0f19d226.js",
+    "runtime-main.js.map": "https://grigorev-web.github.io/csb-bsn6t/static/js/runtime-main.0f19d226.js.map",
+    "static/css/2.5f25e38c.chunk.css": "https://grigorev-web.github.io/csb-bsn6t/static/css/2.5f25e38c.chunk.css",
+    "static/js/2.175b93a6.chunk.js": "https://grigorev-web.github.io/csb-bsn6t/static/js/2.175b93a6.chunk.js",
+    "static/js/2.175b93a6.chunk.js.map": "https://grigorev-web.github.io/csb-bsn6t/static/js/2.175b93a6.chunk.js.map",
+    "index.html": "https://grigorev-web.github.io/csb-bsn6t/index.html",
+    "static/css/2.5f25e38c.chunk.css.map": "https://grigorev-web.github.io/csb-bsn6t/static/css/2.5f25e38c.chunk.css.map",
+    "static/css/main.b769585c.chunk.css.map": "https://grigorev-web.github.io/csb-bsn6t/static/css/main.b769585c.chunk.css.map",
+    "static/js/2.175b93a6.chunk.js.LICENSE.txt": "https://grigorev-web.github.io/csb-bsn6t/static/js/2.175b93a6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f19d226.js",
+    "static/css/2.5f25e38c.chunk.css",
+    "static/js/2.175b93a6.chunk.js",
+    "static/css/main.b769585c.chunk.css",
+    "static/js/main.23072f1a.chunk.js"
+  ]
+}
